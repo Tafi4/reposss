@@ -6,7 +6,7 @@ class cafe
 
     public cafe()
     {
-        chasiki = 12;
+        chasiki = 0;
     }
 
     public void hours(double amount)
